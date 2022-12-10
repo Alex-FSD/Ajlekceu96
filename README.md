@@ -1,10 +1,10 @@
+<h1 align="right"><img src="https://komarev.com/ghpvc/?username=ajlekceu96"/></h1>
 <h1 align="center">Hi there, I'm Alexey <img src="img/hi.gif" height="35"/></h1>
 
 ---
 
+<img align="right" src="https://komarev.com/ghpvc/?username=ajlekceu96"/>
 <img align="right" src="img/coder.gif" height="350"/>
-
-![Profile views](https://komarev.com/ghpvc/?username=ajlekceu96)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_jlewa)
 
