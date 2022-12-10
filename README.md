@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ajlekceu.96@gmail.com)
 
-## 📈 My GitHub stats:
+## 📈 My GitHub stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=onedark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=onedark)
@@ -20,7 +20,7 @@
 
 ---
 
-|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20742798&theme=dark)](https://stackoverflow.com/users/20742798)|Ru Stack Overflow<br/>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/533123)<br/><br/>En Stack Overflow<br/>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20742798)|
+|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20742798&theme=dark)](https://stackoverflow.com/users/20742798)|En Stack Overflow<br/>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20742798)<br/><br/>Ru Stack Overflow<br/>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/533123)|
 |-|-|
 
 ---
