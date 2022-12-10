@@ -12,11 +12,11 @@
 
 ## 📈 My GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=onedark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=onedark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlekceu96&theme=onedark)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ajlekceu96&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=github-dark-blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlekceu96&theme=github_dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ajlekceu96&theme=algolia)
 
 ---
 
