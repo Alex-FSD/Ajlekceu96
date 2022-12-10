@@ -3,7 +3,6 @@
 
 ---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ajlekceu96"/>
 <img align="right" src="img/coder.gif" height="350"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_jlewa)
