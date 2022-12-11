@@ -11,11 +11,11 @@
 
 ## 📈 My GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)
-![Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=github-dark-blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajlekceu96&theme=github_dark&show_icons=true&include_all_commits=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ajlekceu96&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)](https://github.com/Ajlekceu96?tab=repositories)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=github_dark)](https://github.com/Ajlekceu96/Python)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=github-dark-blue)](https://github.com/Ajlekceu96)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajlekceu96&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/Ajlekceu96)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ajlekceu96&theme=algolia)](https://github.com/Ajlekceu96)
 
 ---
 
