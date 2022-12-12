@@ -11,7 +11,6 @@
 
 ## 📈 My GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)](https://github.com/Ajlekceu96?tab=repositories)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=github_dark)](https://github.com/Ajlekceu96/Python)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=github-dark-blue)](https://github.com/Ajlekceu96)
