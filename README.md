@@ -1,5 +1,5 @@
 <h1 align="right"><img src="https://komarev.com/ghpvc/?username=ajlekceu96"/></h1>
-<h1 align="center">Hi there, I'm Alexey <img src="img/hi.gif" height="35"/></h1>
+<h1 align="center">Hi there, I'm Alexey<img src="img/hi.gif" height="35"/></h1>
 
 ---
 
