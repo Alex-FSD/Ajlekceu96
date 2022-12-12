@@ -1,5 +1,5 @@
 <h1 align="right"><img src="https://komarev.com/ghpvc/?username=ajlekceu96"/></h1>
-<h1 align="center">Hi there, I'm Alexey<img src="img/hi.gif" height="35"/></h1>
+<h1 align="center">Hi there, I'm Alexey <img src="img/hi.gif" height="35"/></h1>
 
 ---
 
@@ -11,6 +11,7 @@
 
 ## 📈 My GitHub stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)](https://github.com/Ajlekceu96?tab=repositories)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=github_dark)](https://github.com/Ajlekceu96/Python)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=github-dark-blue)](https://github.com/Ajlekceu96)
