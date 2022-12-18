@@ -19,7 +19,7 @@
 
 ---
 
-|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20742798&theme=dark)](https://stackoverflow.com/users/20742798)|Links to educational platforms<br><br><br>En Stack Overflow<br>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20742798)<br><br>Ru Stack Overflow<br>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/533123)<br><br><br>[![Stack Overflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/20742798?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)|
+|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20742798&theme=dark)](https://stackoverflow.com/users/20742798)|Links to educational platforms<br><br><br>En Stack Overflow<br>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20742798)<br><br>Ru Stack Overflow<br>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/533123)<br><br><br>[![Stack Overflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/20742798?theme=dark&website=true&location=true)](https://stackoverflow.com/users/20742798)|
 |:-:|:-|
 
 ---
