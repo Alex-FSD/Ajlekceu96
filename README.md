@@ -1,5 +1,5 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=ajlekceu96"/></div>
-<h1 align="center">Hi there, i'm Alexey <img src="img/hi.gif" height="35"/><br>I am a junior full stack developer</h1>
+<h1 align="center">Hi there, i'm Alex <img src="img/hi.gif" height="35"/><br>I am a junior full stack developer</h1>
 
 ---
 
