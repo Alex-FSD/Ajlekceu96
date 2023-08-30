@@ -1,5 +1,5 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=Alex-FSD"/></div>
-<h1 align="center">Hi there, i'm Alex <img src="img/hi.gif" height="35"/><br>I am a junior full stack developer</h1>
+<h1 align="center">Hi there, i'm Alex <img src="img/hi.gif" height="35"/><br>I am a Full Stack Developer</h1>
 
 ---
 
@@ -16,11 +16,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-FSD&theme=github-dark-blue)](https://github.com/Alex-FSD)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-FSD&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/Alex-FSD)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Alex-FSD&theme=algolia)](https://github.com/Alex-FSD)
-
----
-
-|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20742798&theme=dark)](https://stackoverflow.com/users/20742798)|Links to educational platforms<br><br><br>En Stack Overflow<br>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20742798)<br><br>Ru Stack Overflow<br>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/533123)<br><br><br>[![Stack Overflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/20742798?theme=dark&website=true&location=true)](https://stackoverflow.com/users/20742798)|
-|:-:|:-|
 
 ---
 
