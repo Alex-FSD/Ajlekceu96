@@ -1,21 +1,21 @@
-<div align="right"><img src="https://komarev.com/ghpvc/?username=ajlekceu96"/></div>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=Alex-FSD"/></div>
 <h1 align="center">Hi there, i'm Alex <img src="img/hi.gif" height="35"/><br>I am a junior full stack developer</h1>
 
 ---
 
 <img align="right" src="img/coder.gif" height="350"/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_jlewa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_FSD)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ajlekceu.96@gmail.com)
 
 ## 📈 My GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajlekceu96&theme=github_dark)](https://github.com/Ajlekceu96?tab=repositories)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=ajlekceu96&repo=Python&theme=github_dark)](https://github.com/Ajlekceu96/Python)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajlekceu96&theme=github-dark-blue)](https://github.com/Ajlekceu96)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajlekceu96&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/Ajlekceu96)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ajlekceu96&theme=algolia)](https://github.com/Ajlekceu96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-FSD&theme=github_dark)](https://github.com/Alex-FSD?tab=repositories)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-FSD&repo=Python&theme=github_dark)](https://github.com/Alex-FSD/Python)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-FSD&theme=github-dark-blue)](https://github.com/Alex-FSD)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-FSD&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/Alex-FSD)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Alex-FSD&theme=algolia)](https://github.com/Alex-FSD)
 
 ---
 
